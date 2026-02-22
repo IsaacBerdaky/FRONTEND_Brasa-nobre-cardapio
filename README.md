@@ -21,19 +21,29 @@ O projeto simula um restaurante real, oferecendo uma experiência visual moderna
 🚀 Tecnologias Utilizadas:
 
 ⚛️ Next.js
+
 🎨 Tailwind CSS
+
 💻 React
+
 📱 Mobile-first design
+
 
 
 ✨ Funcionalidades:
 
 📋 Exibição de itens do cardápio
+
 🗂️ Filtro por categorias (Carnes, Porções, Acompanhamentos, etc.)
+
 📱 Layout responsivo
+
 🌙 Preparado para modo escuro
+
 🧩 Componentes reutilizáveis
+
 ⚡ Estrutura organizada seguindo boas práticas do Next.js
+
 
 
 
@@ -41,9 +51,13 @@ O projeto simula um restaurante real, oferecendo uma experiência visual moderna
 🎯 Objetivo do Projeto:
 
 Este projeto foi desenvolvido com fins de estudo, visando:
+
 Evoluir como desenvolvedor front-end
+
 Melhorar organização de código em projetos Next.js
+
 Aplicar conceitos de responsividade e UX
-Criar um projeto sólido para portfólio
+
+Criar um projeto sólido para portfólio.
 
 LINK DO PROJETO: https://brasa-nobre-cardapio.vercel.app/
