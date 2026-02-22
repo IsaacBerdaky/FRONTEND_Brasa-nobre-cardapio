@@ -1,36 +1,49 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+🔥 Brasa Nobre
 
-## Getting Started
+Cardápio digital moderno desenvolvido com Next.js e Tailwind CSS, focado em experiência mobile, organização de componentes e boas práticas de estruturação de projetos front-end.
 
-First, run the development server:
+📖 Sobre o Projeto
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+O Brasa Nobre é um cardápio digital interativo criado com o objetivo de aprofundar meus conhecimentos em desenvolvimento front-end, especialmente:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Estruturação de projetos com Next.js
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Componentização e reutilização de código
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Estilização moderna com Tailwind CSS
 
-## Learn More
+Organização de layout responsivo
 
-To learn more about Next.js, take a look at the following resources:
+Boas práticas de UI/UX para aplicações web
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+O projeto simula um restaurante real, oferecendo uma experiência visual moderna e intuitiva para navegação do cardápio.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+🚀 Tecnologias Utilizadas:
 
-## Deploy on Vercel
+⚛️ Next.js
+🎨 Tailwind CSS
+💻 React
+📱 Mobile-first design
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+✨ Funcionalidades:
+
+📋 Exibição de itens do cardápio
+🗂️ Filtro por categorias (Carnes, Porções, Acompanhamentos, etc.)
+📱 Layout responsivo
+🌙 Preparado para modo escuro
+🧩 Componentes reutilizáveis
+⚡ Estrutura organizada seguindo boas práticas do Next.js
+
+
+
+
+🎯 Objetivo do Projeto:
+
+Este projeto foi desenvolvido com fins de estudo, visando:
+Evoluir como desenvolvedor front-end
+Melhorar organização de código em projetos Next.js
+Aplicar conceitos de responsividade e UX
+Criar um projeto sólido para portfólio
+
+LINK DO PROJETO: https://brasa-nobre-cardapio.vercel.app/
