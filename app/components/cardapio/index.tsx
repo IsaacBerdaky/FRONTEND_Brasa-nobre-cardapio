@@ -13,7 +13,7 @@ export default function Cardapio() {
                 setCategoria={setCategoriaSelecionada}
                 categoriaSelecionada={categoriaSelecionada}
             />
-            <div className="w-full sm:w-215 h-full min-h-screen my-4">
+            <div className="w-full sm:w-215 h-full min-h-screen my-4 px-3">
                 <h1 className="text-2xl font-bold text-gray-300">Cardápio</h1>
                 <h2 className="text-lg font-medium text-gray-500 mb-4">14 itens disponíveis</h2>
 
